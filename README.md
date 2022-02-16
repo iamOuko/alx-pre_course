@@ -1,1 +1,1 @@
-**alx pre course project**
+**alx software engineering project**
